@@ -3,4 +3,4 @@
 <h2> Glad to see you here </h2>
 <h2> Akshay Joshi </h2>
 <h2> Completed Ansible Deployment to Docker Server </h2>
-<h2> Integrated CI/CD Job </h2>
+
